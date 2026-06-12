@@ -1,2 +1,0 @@
-/usr/bin/ar qc libTodoListCore.a CMakeFiles/TodoListCore.dir/TodoListCore_autogen/mocs_compilation.cpp.o CMakeFiles/TodoListCore.dir/backend/database/database.cpp.o CMakeFiles/TodoListCore.dir/backend/managers/taskmanager.cpp.o CMakeFiles/TodoListCore.dir/backend/model/listModel.cpp.o CMakeFiles/TodoListCore.dir/backend/proxyModel/proxyModel.cpp.o
-/usr/bin/ranlib libTodoListCore.a

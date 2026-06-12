@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/TodoList">
-    <file alias="qmldir">/Users/zerocode/TodoList/build/DesktopMac_6_11_3-Debug/TodoList/qmldir</file>
-  </qresource>
-</RCC>
-

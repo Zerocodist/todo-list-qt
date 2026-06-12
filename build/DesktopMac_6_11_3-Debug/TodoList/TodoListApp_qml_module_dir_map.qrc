@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt/qml/TodoList">/Users/zerocode/TodoList/build/DesktopMac_6_11_3-Debug/TodoList</file>
-
-  </qresource>
-</RCC>
