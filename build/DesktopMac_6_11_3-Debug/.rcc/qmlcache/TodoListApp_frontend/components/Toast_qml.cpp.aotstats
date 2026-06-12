@@ -1,0 +1,71 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 10,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 5,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 3,
+                            "durationMicroseconds": 0,
+                            "functionName": "show",
+                            "line": 33,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalCenter",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "bottom",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 21,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 20,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "onTriggered",
+                            "line": 30,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/Users/zerocode/TodoList/frontend/components/Toast.qml"
+                }
+            ],
+            "moduleId": "TodoList(TodoListApp)"
+        }
+    ]
+}

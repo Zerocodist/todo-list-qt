@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_TodoListCore_FILE /Users/zerocode/TodoList/build/DesktopMac_6_11_3-Debug/libTodoListCore.a)
+set(__QT_DEPLOY_TARGET_TodoListCore_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_TodoListApp_FILE /Users/zerocode/TodoList/build/DesktopMac_6_11_3-Debug/TodoListApp.app/Contents/MacOS/TodoListApp)
+set(__QT_DEPLOY_TARGET_TodoListApp_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_TodoListTests_FILE /Users/zerocode/TodoList/build/DesktopMac_6_11_3-Debug/TodoListTests)
+set(__QT_DEPLOY_TARGET_TodoListTests_TYPE EXECUTABLE)

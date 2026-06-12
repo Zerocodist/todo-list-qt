@@ -1,0 +1,12 @@
+--resource
+/Users/zerocode/TodoList/build/DesktopMac_6_11_3-Debug/.qt/rcc/qmake_TodoList.qrc
+--resource
+/Users/zerocode/TodoList/build/DesktopMac_6_11_3-Debug/.qt/rcc/TodoListApp_raw_qml_0.qrc
+--resource
+/Users/zerocode/TodoList/build/DesktopMac_6_11_3-Debug/.qt/rcc/TodoListApp_raw_qml_0_extra_qmldirs.qrc
+/qt/qml/TodoList/frontend/Main.qml
+/qt/qml/TodoList/frontend/pages/HomePage.qml
+/qt/qml/TodoList/frontend/components/CustomButton.qml
+/qt/qml/TodoList/frontend/components/TaskCard.qml
+/qt/qml/TodoList/frontend/components/TaskInput.qml
+/qt/qml/TodoList/frontend/components/Toast.qml

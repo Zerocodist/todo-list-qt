@@ -1,0 +1,39 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 15,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 12,
+                            "message": "Cannot load property text from (component in /Users/zerocode/TodoList/frontend/components/CustomButton.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalAlignment",
+                            "line": 15,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalAlignment",
+                            "line": 16,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/Users/zerocode/TodoList/frontend/components/CustomButton.qml"
+                }
+            ],
+            "moduleId": "TodoList(TodoListApp)"
+        }
+    ]
+}

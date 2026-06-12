@@ -1,0 +1,11 @@
+module TodoList
+typeinfo TodoListApp.qmltypes
+prefer :/qt/qml/TodoList/
+Main 254.0 frontend/Main.qml
+HomePage 254.0 frontend/pages/HomePage.qml
+CustomButton 254.0 frontend/components/CustomButton.qml
+TaskCard 254.0 frontend/components/TaskCard.qml
+TaskInput 254.0 frontend/components/TaskInput.qml
+Toast 254.0 frontend/components/Toast.qml
+depends QtQuick
+

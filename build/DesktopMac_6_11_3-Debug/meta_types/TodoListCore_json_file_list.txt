@@ -1,0 +1,4 @@
+/Users/zerocode/TodoList/build/DesktopMac_6_11_3-Debug/TodoListCore_autogen/include/../G5ICJ7R2LP/moc_listModel.cpp.json
+/Users/zerocode/TodoList/build/DesktopMac_6_11_3-Debug/TodoListCore_autogen/include/../GMCS3R4PDE/moc_database.cpp.json
+/Users/zerocode/TodoList/build/DesktopMac_6_11_3-Debug/TodoListCore_autogen/include/../RZNYO2PCLL/moc_proxyModel.cpp.json
+/Users/zerocode/TodoList/build/DesktopMac_6_11_3-Debug/TodoListCore_autogen/include/../TJPOPBOMFF/moc_taskmanager.cpp.json
